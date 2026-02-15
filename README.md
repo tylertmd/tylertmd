@@ -8,7 +8,7 @@ I’m Tyler, a computer science student based in Utah. I like building clean, st
 * Building small but polished projects
 * Strengthening backend fundamentals
 
-  ---
+---
 
 **Some stuff I built:**
 
