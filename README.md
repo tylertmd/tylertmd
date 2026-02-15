@@ -8,12 +8,16 @@ I’m Tyler, a computer science student based in Utah. I like building clean, st
 * Building small but polished projects
 * Strengthening backend fundamentals
 
+  ---
+
 **Some stuff I built:**
 
 * Java Image Processor – A GUI-based image filtering app with custom filters like sepia, red-blue swap, and gradients built using 2D pixel manipulation.
 * Filter Engine – Custom image transformations implemented from scratch focusing on clean logic and efficiency.
 * Command-Line Utilities – Small Python programs focused on problem solving and algorithmic thinking.
 * Portfolio Projects – Ongoing builds designed to sharpen real-world development skills.
+
+---
 
 **Fun Facts:**
 * I grew up in Utah 🏔️
