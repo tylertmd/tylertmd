@@ -1,4 +1,4 @@
-## Hi there!
+**Hi there!**
 I’m Tyler, a computer science student based in Utah. I like building clean, structured applications, solving logical problems, and turning ideas into working software.
 
 **These days I’m focused on:**
