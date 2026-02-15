@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there!
+I’m Tyler, a computer science student based in Utah. I like building clean, structured applications, solving logical problems, and turning ideas into working software.
 
-<!--
-**tylertmd/tylertmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**These days I’m focused on:**
 
-Here are some ideas to get you started:
+* Java & Object-Oriented Programming
+* Data Structures & Algorithms
+* Building small but polished projects
+* Strengthening backend fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some stuff I built:
+
+* Java Image Processor – A GUI-based image filtering app with custom filters like sepia, red-blue swap, and gradients built using 2D pixel manipulation.
+* Filter Engine – Custom image transformations implemented from scratch focusing on clean logic and efficiency.
+* Command-Line Utilities – Small Python programs focused on problem solving and algorithmic thinking.
+* Portfolio Projects – Ongoing builds designed to sharpen real-world development skills.
+
+**Fun Facts:
+**
+* I grew up in Utah 🏔️
+* I enjoy lifting
+* I play League of Legends
+* I like building things that actually challenge me
