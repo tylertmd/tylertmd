@@ -14,8 +14,8 @@ I’m Tyler, a computer science student based in Utah. I like building clean, st
 
 **Some stuff I built:**
 
-* Java Image Processor – A GUI-based image filtering app with custom filters like sepia, red-blue swap, and gradients built using 2D pixel manipulation.
-* Sound Sketcher – A Java GUI application for composing multi-track music using programmable notes and instrument mappings. Implemented track layering, timing control, and structured OOP design to manage audio generation and dynamic playback.
+* [Java Image Processor](https://github.com/tylertmd/ImageProcessor) – A GUI-based image filtering app with custom filters like sepia, red-blue swap, and gradients built using 2D pixel manipulation.
+* [Sound Sketcher](https://github.com/tylertmd/SoundSketcher) – A Java GUI application for composing multi-track music using programmable notes and instrument mappings. Implemented track layering, timing control, and structured OOP design to manage audio generation and dynamic playback.
 
 ---
 
