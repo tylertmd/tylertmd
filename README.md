@@ -22,5 +22,5 @@ I’m Tyler, a computer science student based in Utah. I like building clean, st
 **Fun Facts:**
 * I grew up in Utah 🏔️
 * I enjoy lifting
-* I play League of Legends
+* I like building computers
 * I like building things that actually challenge me
